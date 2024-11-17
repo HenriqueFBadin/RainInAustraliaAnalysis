@@ -8,3 +8,11 @@ pandas
 scikit-learn
 seaborn
 yapf
+scipy
+statsmodels
+tensorflow
+keras
+xgboost
+lightgbm
+sweetviz
+os
