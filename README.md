@@ -9,8 +9,12 @@ kaggle: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/da
 ## Instruções para Executar o Projeto  
 
 Siga os passos abaixo para rodar este projeto:  
-
-1. **Ative o ambiente virtual**  
+1. **Crie o ambiente virtual**  
+   Caso ainda não tenha criado o ambiente virtual, use o comando abaixo:  
+   ```bash
+   python -m venv <nome_do_ambiente>
+   
+2. **Ative o ambiente virtual**  
    Use o comando correspondente ao seu sistema operacional para ativar o ambiente virtual:  
    - **Linux/Mac**:  
      ```bash
@@ -21,7 +25,7 @@ Siga os passos abaixo para rodar este projeto:
      <nome_do_ambiente>\Scripts\activate
      ```  
 
-2. **Instale as dependências**  
+3. **Instale as dependências**  
    Com o ambiente virtual ativado, execute o seguinte comando para instalar as bibliotecas necessárias:  
    ```bash
    pip install -r requirements.txt
