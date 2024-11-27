@@ -26,7 +26,7 @@ Siga os passos abaixo para rodar este projeto:
    ```bash
    pip install -r requirements.txt
 
-#Participantes
+# Participantes
 - Eduardo Selber
 - Henrique Badin
 - Luca Caruso
